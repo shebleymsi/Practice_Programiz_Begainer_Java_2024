@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e713385-7492-496b-882a-b13ab1cd734a" name="Changes" comment="" />
+    <list default="true" id="3e713385-7492-496b-882a-b13ab1cd734a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaExamples/Problem_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaExamples/Problem_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaExamples/Problem_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaExamples/Problem_002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaExamples/Problem_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaExamples/Problem_003.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2g9CZkDdJ8VvTZWhDZ8gUVTdHDg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +38,54 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Problem_003">
+    <configuration name="Problem_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.Problem_001" />
+      <module name="Practice_Programiz_Begainer_Java_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.Problem_002" />
+      <module name="Practice_Programiz_Begainer_Java_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExamples.Problem_003" />
+      <module name="Practice_Programiz_Begainer_Java_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem_003" />
+        <item itemvalue="Application.Problem_002" />
+        <item itemvalue="Application.Problem_001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +96,16 @@
       <updated>1715100466767</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
