@@ -1,8 +1,7 @@
 package examples.introduction_01;
 
 public class Problem_002 {
-
-    // Java Program to Add Two Integers
+    //Example: Program to Add Two Integers
 
     public static void main(String[] args) {
         int num1 = 10;

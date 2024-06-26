@@ -1,4 +1,4 @@
-package examples.Arrays_05;
+package examples.arrays_05;
 
 
 
